@@ -12,7 +12,7 @@
     - **레이아웃(Layout)**: ViewGroup 클래스로부터 상속받은 변형 위젯들
     - 레이아웃 역시 크게 보면 뷰(View)의 하위 클래스이므로 View의 XML 속성과 메소드 모두 사용가능
 
-![image.png](image.png)
+![image.png](images/image.png)
 
 ### 2. 레이아웃의 대표적인 공통 속성
 
@@ -23,7 +23,7 @@
 - **`padding`**: 레이아웃 내부의 테두리와 안에 배치된 위젯 사이의 안쪽 여백 설정
 - **`layout_weight`**: 레이아웃이 전체 화면에서 차지하는 공간의 가중값(비율) 설정. 여러 개의 위젯이나 레이아웃 비율을 균등하게 나눌 때 유용.
 
-![image.png](image%201.png)
+![image.png](images/image%201.png)
 
 ### 3. 주요 레이아웃의 종류와 특징
 
@@ -42,4 +42,4 @@
     1. 테이블 레이아웃과 유사하게 표 형태로 위젯을 배치하지만, 훨씬 직관적이고 유연
     2. 행 확장(`layout_rowSpan`)이나 열 확장(`layout_columnSpan`)을 간단하게 지정할 수 있어서 유연하고 복잡한 화면 구성에 적합
 
-![image.png](image%202.png)
+![image.png](images/image%202.png)
