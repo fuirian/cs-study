@@ -8,6 +8,9 @@
 ### 네트워크
 * [상태: 완독] [네트워크 입문](https://product.kyobobook.co.kr/detail/S000217744821)
 
+### 머신러닝 및 딥러닝
+* [상태: 읽는중] [밑바닥부터 시작하는 딥러닝1](https://product.kyobobook.co.kr/detail/S000215599933) 
+
 ### 면접 및 종합 CS
 * [상태: 완독] [기술 면접 대비 CS 전공 핵심요약집](https://product.kyobobook.co.kr/detail/S000208504237)
 
